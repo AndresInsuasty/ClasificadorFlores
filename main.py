@@ -47,5 +47,5 @@ st.write(iris.target_names)
 st.subheader('Prediction')
 st.write(iris.target_names[prediccion])
 
-st.subheader('Prediction Probability')
+st.subheader('Probabilidad de predicción')
 st.write(prediction_proba)
